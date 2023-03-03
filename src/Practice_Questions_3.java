@@ -13,7 +13,7 @@ public class Practice_Questions_3 {
             for (int b = 1; b <= j; b++){
                 System.out.print("*");
             }
-            System.out.println("*");
+            System.out.println();
         }
     }
 }
