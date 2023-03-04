@@ -1,6 +1,14 @@
 import java.util.Scanner;
-public class Practice_Questions_3 {
+public class Practice_Question_3 {
     public static void main(String[] args) {
+
+        //print:
+        //*****
+        //*****
+        //*****
+        //*****
+        //*****
+
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter thr rows : ");

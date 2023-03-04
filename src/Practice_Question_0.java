@@ -1,4 +1,4 @@
-public class PracticeSet {
+public class Practice_Question_0 {
     public static void main(String[] args)  {
         // add three numbers
 //        int a = 5 ,b = 7 , c = 4;
