@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Arrays {
+public class Array_Question_0 {
     public static void main(String[] args) {
         /* print array elements in reverse order
              input a[5] = 10,20,30,40,50 ----> 50,40,30,20,10
