@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Array_Question_6 {
     public static void main(String[] args) {
-        /* Create an array of 5 floats and calculate their sum */
+        /* Create an array of 5 integer and calculate their sum */
 
         int a[] = new int[5];
         int sum = 0;
