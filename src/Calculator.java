@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
+       // Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
         Scanner sc = new Scanner(System.in);
         int a,b;
         System.out.println("Enter first no. : ");
